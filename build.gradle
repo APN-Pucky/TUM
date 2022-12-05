@@ -37,7 +37,7 @@ dependencies {
 	implementation 'org.json:json:20220320'
 	implementation group: 'com.github.weisj', name: 'darklaf-core', version: '3.0.0'
 	//implementation 'com.github.APN-Pucky:TUR:0.2.1'
-	implementation 'com.github.APN-Pucky:TULib:0.3.12'
+	implementation 'com.github.APN-Pucky:TULib:0.3.16'
 	implementation 'com.github.APN-Pucky:GitJarUpdate:0.0.10'
 }
 
